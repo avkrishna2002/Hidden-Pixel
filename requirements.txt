@@ -1,0 +1,9 @@
+colorama
+pycryptodome
+pyfiglet
+Pygments
+rich
+termcolor
+typing-extensions
+commonmark
+Pillow
